@@ -1,0 +1,42 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+.yii {width:12em;}
+
+.alert::-webkit-input-placeholder {
+   color: red;
+}
+
+.confirm {
+  color:red; 
+}
+
+footer {
+  position:relative;
+  top:25em;
+  font-size:0.8em;
+}
+
+.yihi {
+  position:absolute;
+  top:0.5em;
+  left:23.5em;
+  }
+  
+#yircc {display:inline;}
+
+.hide {display:none;}
+
+.instructions {font-size:1.5em;position:relative;top:1em;}
+
+#yit {position:relative;top:8em;}
+#yig {position:relative;top:12em;}
+
+.alt:nth-of-type(odd) {background-color: #CCCACA;}

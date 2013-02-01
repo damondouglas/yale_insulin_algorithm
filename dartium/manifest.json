@@ -1,0 +1,11 @@
+{
+  "name": "Yale Insulin Algorithm",
+  "description": "Calculates insulin requirements for patients on the Yale Insulin Algorithm based on blood glucose values.",
+  "version": "0.1",
+  "manifest_version":2,
+ "app": {
+    "launch": {
+       "local_path": "yale_insulin.html"
+    }
+  }
+}
